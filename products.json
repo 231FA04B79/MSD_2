@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 79.99,
+    "category": "Electronics",
+    "description": "High-quality wireless headphones with noise cancellation"
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Watch",
+    "price": 199.99,
+    "category": "Electronics",
+    "description": "Track your fitness goals with this smart watch"
+  },
+  {
+    "id": 3,
+    "name": "Organic Cotton T-Shirt",
+    "price": 24.99,
+    "category": "Clothing",
+    "description": "Comfortable and eco-friendly cotton t-shirt"
+  }
+]
